@@ -1,1 +1,1 @@
-# Chapter_ML_Techniques_for_Classification
+# ML Techniques for Classification
